@@ -14,7 +14,7 @@ def decrypt(text_encrypt, iv):
     cipher = blowfish.Cipher(key)
     text_decrypted = b"".join(cipher.decrypt_cbc(text_encrypt, iv))
     divisor_value = int(len(text_decrypted)/blocks)
-    return text_decrypted[:divisor_value];
+    return text_decrypted[:divisor_value]
 	
 # Caso 5
 iv = urandom(8)

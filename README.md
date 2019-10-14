@@ -100,5 +100,4 @@ Utilizando um vetor de bytes diferente do primeiro, não é possível decifrar o
 
 ## Caso 9
 
-9.1. Criptografe o texto “FURB” usando o modo de operação “ECB”. A partir do texto cifrado obtido, tente 
-decifrá-lo utilizando a chave “11111”. Explique o resultado.
+9.1. Criptografe o texto “FURB” usando o modo de operação “ECB”. A partir do texto cifrado obtido, tente decifrá-lo utilizando a chave “11111”. Explique o resultado.
